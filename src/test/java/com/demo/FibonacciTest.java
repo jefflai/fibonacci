@@ -27,7 +27,7 @@ public class FibonacciTest {
 
     @Test
     public void testRunIterative() {
-        Assert.assertEquals(fExpected, Fibonacci.runInterative(fInput));
+        Assert.assertEquals(fExpected, Fibonacci.runIterative(fInput));
     }
 
     @Test

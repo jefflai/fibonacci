@@ -5,7 +5,7 @@ package com.demo;
  *
  */
 public class Fibonacci {
-    public static int runInterative(int n) {
+    public static int runIterative(int n) {
         if (n < 2)
             return n;
 
